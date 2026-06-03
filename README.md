@@ -1,5 +1,11 @@
 ## Hi there 👋
+Hi, I'm an aspiring Frontend Developer.
 
+I'm currently studying Frontend Development.
+I'm currently working on personal projects.
+I'm currently learning JavaScript.
+how to reach me: [portfolio](https://joriyx.github.io/portfolio-1/) 
+Fun fact: I have arranged a weekly running competition with my siblings and cousins for 5 and a half years.
 <!--
 **Joriyx/joriyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
